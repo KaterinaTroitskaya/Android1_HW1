@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android1_HW1</string>
+    <string name="firstbutton">Кнопка!</string>
 </resources>
